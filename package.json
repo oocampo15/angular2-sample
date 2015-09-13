@@ -1,0 +1,15 @@
+{
+  "name": "angular2-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/app.js",
+  "dependencies": {
+    "angular2": "^2.0.0-alpha.37",
+    "systemjs": "^0.16.11",
+    "traceur": "0.0.91"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "author": "oocampo15",
+  "license": "ISC"
+}
